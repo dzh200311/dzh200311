@@ -12,9 +12,6 @@ Hello, I'm Zihan Deng, a regular MS EE student from Columbia University. Strivin
 ## Contact
 - 📧 Email: zd2364@columbia.edu
 
-## Learning Goals
-Currently, I am planning to delve deeper into CS and get a good offer for my master degree.
-
 ## Contributions
 If you have any suggestions or ideas for my suck projects, feel free to raise an issue or submit a pull request. I'm open to collaboration and improvement.
 
