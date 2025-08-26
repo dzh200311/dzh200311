@@ -10,7 +10,7 @@ Hello, I'm Zihan Deng, a regular MS EE student from Columbia University. Strivin
 - **Databases:** MySQL
 
 ## Contact
-- 📧 Email: Zihan.Deng21@student.xjtlu.edu.cn
+- 📧 Email: zd2364@columbia.edu
 
 ## Learning Goals
 Currently, I am planning to delve deeper into CS and get a good offer for my master degree.
