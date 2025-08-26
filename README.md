@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me
-Hello, I'm Zihan Deng, a regular junior CS student from XJTLU. Striving to become a rich person through continuous learning and hands-on experience.
+Hello, I'm Zihan Deng, a regular MS EE student from Columbia University. Striving to become a rich person through continuous learning and hands-on experience.
 
 ## Skills
 - **Programming Languages:** Python, Java, C++
